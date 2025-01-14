@@ -1,0 +1,19 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/main/Home",
+    "pages/SearchPage",
+    "pages/Notification",
+    "pages/explore/Category",
+    "pages/CurrentPlaying",
+    "pages/explore/NewDiscovery",
+    "pages/explore/RankList",
+    "pages/History",
+    "pages/Playlist",
+    "pages/pyq",
+    "pages/MainPage01",
+    "pages/Find/Find",
+    "pages/youtubeRegister",
+    "pages/youtubeLogin"
+  ]
+}
